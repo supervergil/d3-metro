@@ -1,0 +1,19 @@
+{
+  "name": "d3-metro",
+  "version": "1.0.0",
+  "description": "d3 based metro engine",
+  "author": {
+    "name": "supervergil",
+    "url": "https://www.zhangyangjun.com"
+  },
+  "main": "lib/metro.esm.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supervergil/d3-metro.git"
+  },
+  "dependencies": {
+    "d3": "^5.5.0"
+  },
+  "devDependencies": {}
+}
